@@ -1,4 +1,4 @@
-# [Puzzle-Game](https://rrvmiii.github.io/Puzzel-Game)
+# [Puzzle-Game](https://rrvmiii.github.io/Puzzle-Game/)
 - Coding Tutorial: Soon
 - Enjoy :)
 
